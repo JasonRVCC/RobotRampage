@@ -1,0 +1,9 @@
+C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\obj\x86\Debug\RobotRampage.csprojResolveAssemblyReference.cache
+C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\Content\Fonts\Pericles14.xnb
+C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\Content\Textures\SpriteSheet.xnb
+C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\Content\Textures\TitleScreen.xnb
+C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\RobotRampage.exe
+C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\RobotRampage.pdb
+C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\obj\x86\Debug\RobotRampage.exe
+C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\obj\x86\Debug\RobotRampage.pdb
