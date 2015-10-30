@@ -18,7 +18,7 @@ namespace RobotRampage
         private Color finalColor;
         #endregion
 
-        #region Contructor
+        #region Constructor
         public Particle(Vector2 location, Texture2D texture, Rectangle initialFrame, Vector2 velocity,
             Vector2 acceleration, float maxSpeed, int duration, Color initialColor, Color finalColor) :
             base(location, texture, initialFrame, velocity)

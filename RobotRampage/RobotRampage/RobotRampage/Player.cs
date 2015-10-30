@@ -52,6 +52,13 @@ namespace RobotRampage
         }
         #endregion
 
+        #region Properties
+        public static Vector2 PathingNodePosition
+        {
+            get { return TileMap.GetSquareAtPixel(BaseSprite.WorldCenter); }
+        }
+        #endregion
+
         #region Input Handling
         private static Vector2 handleKeyboardMovement(KeyboardState keyState)
         {
@@ -126,6 +133,12 @@ namespace RobotRampage
             {
                 fireAngle.Normalize();
                 turretAngle = fireAngle;
+
+                if (WeaponManager.CanFireWeapon)
+                {
+                    WeaponManager.FireWeapon(TurretSprite.WorldLocation, 
+                        fireAngle * WeaponManager.WeaponSpeed);
+                }
             }
 
             BaseSprite.RotateTo(baseAngle);

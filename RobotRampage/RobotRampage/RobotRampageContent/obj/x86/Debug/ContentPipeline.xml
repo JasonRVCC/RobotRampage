@@ -7,8 +7,8 @@
       <Importer>FontDescriptionImporter</Importer>
       <Processor>FontDescriptionProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\Content\Fonts\Pericles14.xnb</Output>
-      <Time>2015-10-23T09:52:34.3973094-04:00</Time>
+      <Output>C:\Users\G00136378\Desktop\GitHub\RobotRampage\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\Content\Fonts\Pericles14.xnb</Output>
+      <Time>2015-10-30T09:06:41.8024482-04:00</Time>
     </Item>
     <Item>
       <Source>Textures\SpriteSheet.png</Source>
@@ -16,8 +16,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\Content\Textures\SpriteSheet.xnb</Output>
-      <Time>2015-10-23T09:53:15.8784571-04:00</Time>
+      <Output>C:\Users\G00136378\Desktop\GitHub\RobotRampage\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\Content\Textures\SpriteSheet.xnb</Output>
+      <Time>2015-10-30T09:06:41.8094468-04:00</Time>
     </Item>
     <Item>
       <Source>Textures\TitleScreen.png</Source>
@@ -25,8 +25,8 @@
       <Importer>TextureImporter</Importer>
       <Processor>TextureProcessor</Processor>
       <Options>None</Options>
-      <Output>C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
-      <Time>2015-10-23T09:53:15.8814574-04:00</Time>
+      <Output>C:\Users\G00136378\Desktop\GitHub\RobotRampage\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\Content\Textures\TitleScreen.xnb</Output>
+      <Time>2015-10-30T09:06:41.8174452-04:00</Time>
     </Item>
     <BuildSuccessful>true</BuildSuccessful>
     <Settings>
@@ -34,10 +34,10 @@
       <TargetProfile>HiDef</TargetProfile>
       <BuildConfiguration>Debug</BuildConfiguration>
       <CompressContent>false</CompressContent>
-      <RootDirectory>C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampageContent\</RootDirectory>
-      <LoggerRootDirectory>C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\</LoggerRootDirectory>
-      <IntermediateDirectory>C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampageContent\obj\x86\Debug\</IntermediateDirectory>
-      <OutputDirectory>C:\Users\G00136378\Documents\Visual Studio 2012\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\Content\</OutputDirectory>
+      <RootDirectory>C:\Users\G00136378\Desktop\GitHub\RobotRampage\RobotRampage\RobotRampage\RobotRampageContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\G00136378\Desktop\GitHub\RobotRampage\RobotRampage\RobotRampage\RobotRampage\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\G00136378\Desktop\GitHub\RobotRampage\RobotRampage\RobotRampage\RobotRampageContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\G00136378\Desktop\GitHub\RobotRampage\RobotRampage\RobotRampage\RobotRampage\bin\x86\Debug\Content\</OutputDirectory>
     </Settings>
     <Assemblies>
       <Assembly>
